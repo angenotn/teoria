@@ -1,0 +1,36 @@
+HTML
+
+tag body -> onde "programa" em html 
+
+maxlenght -> quantidade maxima de elementos num campo
+
+tag button -> criação de botão
+
+tag script -> colocada dentro de head para identificar de qual arquivo será puxado a lógica do javascript  
+
+async dentro da tag script p/ evitar que o carregamento do script atrase o carregamento do site, fazendo com q carregue o script de forma assincrona
+
+tag link -> identificar o css
+------------------------------------------------------------------------------------------------------------------
+JAVASCRIPT
+
+comando alert -> uma caixinha de alerta no topo da página
+
+comando function -> cria uma função
+
+comando replace -> troca um determinado caracter por um espaço vazio, por exemplo
+
+comando lenght -> tamanho do objeto
+
+comando split -> separa o objeto transformando em array 
+
+comando every -> varre o array digito a digito fazendo uma verificação
+------------------------------------------------------------------------------------------------------------------
+BOAS PRÁTICAS
+
+colocar textos dentro de tags
+dar um id unico para campos 
+usar placeholder pra indicar oq deve ser feito no campo
+pensar no caminho relativo do script, p/ evitar erros caso o arquivo seja movido
+
+

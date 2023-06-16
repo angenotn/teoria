@@ -1,0 +1,155 @@
+O QUE É SCRUM?
+
+Scrum é um frameworl incremental e iterativo, utilizado para auxiliar no desenvolvimento de produtos complexos
+
+Encoraja a comunicação diária de todos os envolvidos, principalmente do time de desenvolvimento 
+
+Se baseia nas hipóteses que durante o processo de desenvolvimento o cliente irá mudar o escopo do que será desenvolvido e que desafios imprevisíveis vão surgir
+
+Focao em maximizar a habilidade do time de realizar entregar rápidas e se adaptar às mudanças e evoluções tecnológicas
+
+
+PRINCIPAIS CONCEITOS DO SCRUM
+
+-- SPRINT
+
+É a unidade básica de desenvolvimento
+
+Possui tempo definido para a entrega de cada evoluçõa do produto 
+
+Geralmente possuem duração de 10 dias úteis, podendo varias entre 5 a 20 dias úteis, dependendo da decisão do time
+
+As tarefas a serem desenvolvidas são definidas no primeiro dia da sprint, e TODAS devem ser entregues ao final da sprint, sem exceção
+
+
+-- BACKLOG
+
+Log de acumução dos trabalhos que serão feito em um determinado tempo
+
+Dentro do SCRUM é dividido em Product Backlog(tarefas a serem realizadas pelo time) e Sprint Backlog (tarefas selecionadas pra realizar)
+
+PRODUCT 
+
+Contém todas as tarefas que o Development Team precisa desenvolver para concluir o projeto 
+
+Criado e mantido pelo Product Owner. Ele escreve as histórias do que precisa ser feito para concluir o projeto 
+
+
+SPRINT
+
+Parcelo dos itens que estavam no Product Backlog que vão ser desenvolvidas pelo Development Team durante a sprint corrente
+
+O Time de Desenvolvimento vai preencher esse backlog com as tarefas prioritárias do Product Backlog, até 
+
+
+-- BACKLOG REFINEMENT
+
+Originalmente não era uma prática fundamental no Scrum 
+
+Adotada para gerenciar a qualidade dos itens no Product Backlog que devem ser priorizados na sprint 
+
+É o processo de revisão do Product Backlog para manter as tarefas organizadas, priorizadas e atualizadas
+
+
+PAPÉIS DENTRO DO SCRUM 
+
+I. Development Team 
+
+Equipe responsável pelo desenvolvimento do produto 
+
+É composta por um grupo pequeno, geralmente 5 a 9 pessoas 
+
+Importante ter membros com especialidades diferentes, como desenvolvedor frontend, backend, testes, analistas...
+
+Ser auto-organizado. O time deve interagir entre sim e com o cliente para esclarecer dúvidas e alcançar o entendimento necessário para realizar a tarefa
+
+
+II. Product Owner
+
+Dono do produto ou representante do dono do produto que será desenvolvido 
+
+Responsável para que o Development Team agregue valor ao produto que está sendo criado 
+
+Define as necessidades do produto: cria as tarefas (histórias) e as adiciona ao backlog
+
+É responsável pelo refinamento do backlog sempre que necessário 
+
+
+III. Scrum Master
+
+Facilitador da aplicação do Framework Scrum 
+
+Remove impedimentos que podem ocasionar a falha da entrega da sprint pelo Development Team 
+
+Evita que o Development Team seja distraído por assuntos externos ou irrelevantes
+
+Garante que as reuniões estão ocorrendo da maneira correta e que o Scrum está sendo aplicado 
+
+
+-- REUNIÕES 
+
+I. Planning 
+
+Planejamento realizado no início do ciclo de cada sprint. Tem duração de 4 a 8 horas, e tanto o Development Team quanto o Product Owner devem participar.
+
+Pode ser dividada em duas etapas:
+
+1- Team e Product Owner: Definição da prioridade no backlog 
+
+2- Team: Seleção das tarefas que serão desenvolvidas na sprint
+
+O Development Team deve selecionar as tarefas definidas como prioridade pelo dono do produto, e para cada uma delas, deve ser feita uma análise da dificuldade da tarefa
+
+A análise tem o intuito de definir um tempo necessário para a realização da tarefa, para que não sejam selecionadas tarefas em excesso ou poucas tarefas para a sprint
+
+Existem diversas técnicas para realizar a análise da dificuldade e tempo necessário para a tarefa, e cabe ao time escolher qual delas ele prefere usar
+
+Após a definição, as tarefas serão atribuídas aos desenvolvedores, levando em consideração as devidas experiências ou envolvimento com a tarefa que será desenvolvida 
+
+
+II. Daily
+
+Reunião diária feita pelo Development Team. Ela deve acontecer no mesmo local e horário 
+
+O Scrum Master deve participar da reunião, porém como ouvinte ou facilitador. O Product Owner também pode participar, mas ele não deve interromper, também sendo apenas um ouvinte
+
+Essa reunião é geralmente feita em pé, e tem uma duração máxima pré estabelecida de 15 minutos.
+
+Durante esta reunião, cada membro do Development Team deve responder para o restante do time 3 perguntas, um de cada vez:
+
+1. O que eu fiz para atingir a meta da sprint?
+
+2. O que eu pretendo fazer hoje para atingir a meta da sprint?
+
+3. Você possui algum problema ou impeditivo para realizar a sua tarefa?
+
+Após todos os membros se alinharem do que foi feito, o que será feito e qual eventual problema existe que pode ser um impeditivo para o time, reunião é finalizada
+
+O Scrum Master deve estar presente para escutar os impeditivos e após a reunião, resolver os problemas que podem impedir a entrega da sprint 
+
+
+III. Review
+
+O Development Team deve, ao final de cada sprint, realizar uma reunião para mostrar tudo que foi desenvolvido para os stakeholders e Product Owner
+
+É importante que todas as tarefas selecionadas ao início da sprint tenham sido desenvolvidas corretamente para a apresentação 
+
+Tarefas não concluídas completamente não devem ser apresentadas 
+
+
+IV. Restrospective
+
+Após a Review, o Development Team se reúne para refletir sobre a sprint que acabou de encerrar
+
+Durante este processo, duas questões principais são definidas:
+
+1. O que fizemos que foi bom e devemos manter para a próxima sprint?
+
+2. O que poderia ser melhorado para a próxima sprint?
+
+
+
+
+
+
+

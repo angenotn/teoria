@@ -1,0 +1,24 @@
+Git - gerenciador de versões 
+
+Comandos Git
+
+- git init -> prepara a pasta pra usar o git 
+
+- git clone -> clona o arquivo
+
+- git add -> adiciona arquivos p/ serem commitados
+	- git add . -> adiciona todos 
+
+- git commit -m 'mensagem' -> commit com mensagem curta e especificada
+
+- git push origin master
+
+- git status -> apresenta o status dos arquivos
+
+- git pull
+
+- git reset -> reseta o código
+
+- git log -> história de commits passados
+
+- git checkout + código do commit pro qual vc qr voltar -> volta pra um commit especifico 

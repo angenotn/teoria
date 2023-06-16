@@ -1,0 +1,28 @@
+O QUE É NODE.JS?
+
+Criado em 2009, é um software de código aberto, multiplataforma e baseado no interpretador V8 do Google, permitindo a execução de códigos JavaScript fora de um navegador web
+
+Não é uma linguagem de programação
+
+Não é um framework
+
+Utiliza o Javascript, a mesma linguagem usada há décadas pelo client-side dos navegadores
+
+Interpretado pelo V8, o código é entregue como server-side, tornando o Node.js muito eficiente
+
+VANTAGENS 
+
+I. Javascript: Por conta de ser uma linguagem existente há décadas, e ter milhões de programadores pelo mundo, é uma linguagem simples, de fácil aprendizado, e que ainda é atualizada buscando melhorias
+
+II. Javascript Full-Stack: Antes do Node.js, era necessário trabalhar com outra linguagem para o backend quando ia desenvolver uma aplicação web, como por exemplo, PHP
+
+III. Leve e Multiplataforma: Permite rodar os projetos em servidores abertos e com o sistema operacional que quiser
+
+DESVANTAGENS 
+
+I. Javascript: Tem as suas vantagens, porém, javascript também possui suas desvantagens, e como uma linguagem antiga, fracamente tipada (Typescript)
+
+II. Ecossistema Grande: Alguns podem ver como vantagem, mas também existem muitas opções e pacotes que fazem a mesma coisa ou é muito semelhante, dificultando a escolha e decisão do que usar no projeto
+
+III. Assíncrono: Pode ser complexo inicialmente, porém, com a evolução do javascript através do ES6 (Promises) e ES7 (Async/Await), tende a tornar mais fácil o entendimento 
+

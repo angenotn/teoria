@@ -1,0 +1,84 @@
+I. Indentação 
+
+Extremamente importante para a legibilidade do código 
+
+Um código não indentado ou mal-indentado pode dificultar muito o entendimento dele 
+
+É uma prática comum, e que deve ser treinada diariamente para que seja cada vez mais comum a escrita de códigos dessa forma 
+
+A cada "bloco", dar um tab para gerar um espaçamento para dentro do código, indicando que ele está contindo dentro de uma estrutura externa
+
+
+II. Espaçamento 
+
+Não é obrigatório, porém, dar um espaço de linhan no código em alguns momentos torna muito melhor a visibilidade do que está acontecendo 
+
+Existem regras onde esse espaçamento deve ocorrer, e o programador pode escolher seguir elas a risca, ou apenas como achar necessário 
+
+III. Nomenclatura de Funções e Variáveis 
+
+Na hora de colocar um nome, seja um arquivo, função ou variável, é importante seguir algumas regras ou modelos já existentes
+
+No caso do arquivo, seguir o modelo já adotado no projeto, caso exista. Se não existir, definir com a equipe
+
+No caso das variáveis:
+
+1. Evitar nomes muito longos. Ele precisa ser conciso e claro 
+
+2. Tomar cuidado para não misturar idiomas e criar algo em "portuglês"
+
+3. Respeitar as regras de letras minúsculas e maiúsculas:
+	A. PascalCase
+	B. camelCase
+	C. snake_case
+
+
+IV. Const/Let
+
+Se manter atualizado é um papel importante de um desenvolvedor
+
+Mudanças acontecem em uma frequência alta, e é necessário se adaptar para utilizar os melhores conceitos disponíveis
+
+Um dos exemplos de atualização, nem tão recente assim, é a mudança da forma de declaração de variável no javascript
+
+Antes era utilizada a palavra var para fazer a declaração, porém essa forma apresentava problemas relacionados ao escopo de variáveis declaradas dessa forma
+
+Para isso, foi criado o const e o let, que permitem declarar variáveis sem este problema
+
+const -> variável não vai ter mudança 
+
+let -> variável vai ter mudança no valor 
+
+
+V. Fail Fast - IF
+
+É uma forma de deixar o código mais claro, principalmente quando o mesmo possui diversas condições if/else
+
+Ele tenta verificar os eventuais "problemas" primeiro, e caso caia nessas condições, já para o código por ali 
+
+Dessa forma, além do código ficar mais limpo, a escalabilidade e manutenção também ficam fáceis, permitindo adicionar mais condições, sem tornar a estrutura do código mais complexa do que deveria ser
+
+
+VI. Comentários 
+
+Existem opiniões distintas, onde alguns defendem o uso de comentários no código para facilitar o entendimento do mesmo, e outros defendem que se o código precisa de comentário, o código deveria ser reescrito para que não seja tão confuso
+
+O ideal é não necessitar de comentários explicando o código, mas caso seja muito importante 
+
+VII. Reusabilidade do Código
+
+É um conceito muito importante, pois evita reescrever códigos semelhantes na mesma ou em diferentes funções 
+
+A reutilização facilita caso seja necessário alterar algo posteriormente, fazendo que apenas uma função sendo alterada, reflita para todos os outros lugares que utilizam aquela função
+
+Ganho de espaço no código
+
+
+VIII. Try...Catch
+
+É uma cláusula que especifica o que deve acontecer caso uma exceção seja disparada durante a execução do código 
+
+Tratamento de erro eficaz, que evita que a mensagem de erro padrão retorne e apareça para o usuário 
+
+Permitir que o programador defina o melhor procedimento caso um erro ocorra durante a execução do código
+
